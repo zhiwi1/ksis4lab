@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ksis4lab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ksis4lab_jar</output-path>
+    <root id="archive" name="ksis4lab.jar">
+      <element id="module-output" name="ksis4lab" />
+    </root>
+  </artifact>
+</component>
